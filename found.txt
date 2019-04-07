@@ -1,0 +1,621 @@
+IEEE Transactions on Systems Man and Cybernetics-Systems;105.0;5.131
+IEEE/ACM Transactions on Networking;152.0;3.11
+IEEE/ACM Transactions on Audio Speech and Language Processing;20.0;2.95
+IEEE/ASME Transactions on Mechatronics;104.0;3.936
+IEEE Journal on Selected Topics in Signal Processing;83.0;4.361
+Journal of Statistical Software;103.0;22.737
+Molecular Systems Biology;123.0;8.5
+Bioinformatics;318.0;5.481
+Journal of Operations Management;158.0;4.899
+Wiley Interdisciplinary Reviews-Computational Molecular Science;53.0;8.836
+Journal of Service Research;97.0;6.842
+GigaScience;24.0;7.267
+Journal of Supply Chain Management;71.0;6.105
+IEEE Transactions on Fuzzy Systems;163.0;8.415
+npj Computational Materials;10.0;8.941
+npj Quantum Information;9.0;9.206
+IEEE Transactions on Evolutionary Computation;145.0;8.124
+IEEE Transactions on Automatic Control;245.0;5.007
+IEEE Transactions on Neural Networks and Learning Systems;169.0;7.982
+Internet and Higher Education;66.0;5.847
+IEEE Transactions on Cybernetics;60.0;8.803
+mSystems;11.0;5.75
+ISPRS Journal of Photogrammetry and Remote Sensing;99.0;5.994
+Information Systems Research;135.0;2.301
+PLoS Computational Biology;138.0;3.955
+Scientific data;26.0;5.305
+Journal of Computer-Mediated Communication;96.0;4.0
+Operations Research;115.0;2.263
+Computer Methods in Applied Mechanics and Engineering;162.0;4.441
+IEEE Transactions on Smart Grid;102.0;7.364
+ReCALL;28.0;2.206
+Physics of Life Reviews;48.0;13.783
+Cognitive Psychology;104.0;3.104
+Statistics and Computing;57.0;1.851
+Briefings in Bioinformatics;83.0;6.302
+Soft Robotics;17.0;5.057
+Journal of Chemical Theory and Computation;132.0;5.399
+Journal of Management Information Systems;122.0;2.744
+International Journal of Robotics Research;128.0;4.047
+Frontiers in Neuroinformatics;41.0;3.074
+IEEE Transactions on Pattern Analysis and Machine Intelligence;305.0;9.455
+Neural Networks;121.0;7.197
+International Journal of Computer Vision;165.0;11.541
+IEEE Communications Magazine;199.0;9.27
+Transportation Research Part C-Emerging Technologies;90.0;3.968
+SIAM Journal on Optimization;99.0;2.183
+IEEE Transactions on Industrial Electronics;217.0;7.05
+Foundations of Computational Mathematics;44.0;3.056
+Journal of Informetrics;54.0;3.484
+Journal of Computational Physics;205.0;2.864
+Computers and Geotechnics;72.0;3.138
+Medical Image Analysis;105.0;5.356
+IEEE Transactions on Medical Imaging;187.0;6.131
+Journal of Memory and Language;125.0;2.829
+IEEE Wireless Communications;129.0;9.202
+Ocean Modelling;67.0;3.013
+Information Fusion;72.0;6.639
+IEEE Transactions on Robotics;121.0;4.264
+Nonlinear Analysis-Hybrid Systems;41.0;4.01
+Mechanical Systems and Signal Processing;121.0;4.37
+Database-the journal of biological databases and curation;40.0;3.978
+Computational Mechanics;82.0;2.724
+Computational Materials Science;91.0;2.53
+Information Systems Journal;74.0;4.267
+Journal of Information Technology;66.0;4.535
+IEEE Signal Processing Magazine;146.0;7.451
+IEEE Geoscience and Remote Sensing Magazine;13.0;4.932
+IEEE Journal on Selected Areas in Communications;207.0;7.172
+Computer Physics Communications;142.0;3.748
+Journal of Strategic Information Systems;72.0;4.313
+Journal of Materials Processing Technology;143.0;3.647
+Journal of Scientific Computing;59.0;1.814
+International Journal of General Systems;40.0;2.931
+Decision Support Systems;115.0;3.565
+Information Sciences;142.0;4.305
+ACM Computing Surveys;127.0;5.55
+European Journal of Information Systems;88.0;3.197
+IEEE Transactions on Industrial Informatics;85.0;5.43
+Astronomy and Computing;13.0;2.754
+International Journal of Computer-Supported Collaborative Learning;46.0;3.273
+Neuroinformatics;48.0;3.852
+Computers in Human Behavior;123.0;3.536
+Journal of Manufacturing Systems;47.0;3.699
+Computational and Structural Biotechnology Journal;21.0;4.148
+IEEE Network;106.0;7.197
+INFORMS Journal on Computing;65.0;1.392
+Journal of Environmental Informatics;24.0;4.521
+BMC Bioinformatics;176.0;2.213
+Structural and Multidisciplinary Optimization;88.0;2.876
+Journal of Field Robotics;77.0;3.46
+ACM Transactions on Computer Systems;64.0;1.76
+Cognitive Science;94.0;2.617
+IET Control Theory and Applications;91.0;3.296
+Archives of Computational Methods in Engineering;47.0;6.605
+Journal of Computer Assisted Learning;76.0;1.859
+International Journal of Health Geographics;59.0;2.5
+European Journal of Combinatorics;38.0;0.928
+Knowledge-Based Systems;82.0;4.396
+IEEE Transactions on Image Processing;227.0;5.071
+International Journal of Information Management;82.0;4.516
+BIT Numerical Mathematics;46.0;1.425
+Journal of Chemical Information and Modeling;137.0;3.804
+ACM Transactions on Graphics;168.0;4.384
+Computer Assisted Language Learning;35.0;1.928
+IEEE Internet of Things Journal;31.0;5.863
+Algorithms for Molecular Biology;29.0;1.536
+Journal of Global Optimization;70.0;1.407
+Journal of the Association for Information Science and Technology;118.0;2.835
+Mechanism and Machine Theory;88.0;2.796
+Telematics and Informatics;42.0;3.789
+Cyberpsychology Behavior and Social Networking;112.0;2.689
+International Journal of Neural Systems;50.0;4.58
+IEEE Computational Intelligence Magazine;44.0;6.611
+Journal of Intelligent Transportation Systems;33.0;2.164
+IEEE Transactions on Information Forensics and Security;85.0;5.824
+Journal of Machine Learning Research;160.0;2.281
+Expert Systems with Applications;145.0;3.768
+Mathematics of Operations Research;66.0;1.078
+International Journal of Molecular Sciences;95.0;3.687
+Journal of Semantics;29.0;1.5
+IEEE Transactions on Signal Processing;220.0;4.203
+IEEE Transactions on Wireless Communications;177.0;5.888
+ACM Transactions on Mathematical Software;71.0;2.905
+Social Science Computer Review;56.0;3.253
+Inverse Problems;94.0;1.946
+Journal of the ACM;114.0;1.744
+Journal of Cheminformatics;34.0;3.893
+Information and Organization;52.0;1.857
+Communications in Applied Mathematics and Computational Science;17.0;2.125
+International Journal for Numerical Methods in Fluids;94.0;1.673
+Journal of Intelligent Manufacturing;63.0;3.667
+IEEE Transactions on Intelligent Transportation Systems;102.0;4.051
+Advanced Engineering Informatics;64.0;3.358
+IEEE Transactions on Information Theory;241.0;2.187
+Advances in Engineering Software;61.0;3.198
+Computer-Aided Civil and Infrastructure Engineering;61.0;5.475
+International Journal of Control;99.0;2.173
+IEEE Transactions on Neural Systems and Rehabilitation Engineering;114.0;3.972
+Smart Materials and Structures;124.0;2.963
+Fuzzy Sets and Systems;144.0;2.675
+IEEE Transactions on Knowledge and Data Engineering;138.0;2.775
+Autonomous Robots;91.0;2.244
+IEEE Transactions on Affective Computing;40.0;4.585
+Finite Elements in Analysis and Design;62.0;2.253
+Scientometrics;90.0;2.173
+Journal of Scheduling;52.0;1.153
+ISA Transactions;54.0;3.37
+International Journal of Geographical Information Science;93.0;2.37
+BMC Systems Biology;67.0;2.05
+Journal of Process Control;95.0;2.787
+Advances in Data Analysis and Classification;19.0;1.653
+Foundations and Trends in Information Retrieval;23.0;3.125
+Neurocomputing;100.0;3.241
+International Journal of Intelligent Systems;66.0;3.363
+International Transactions in Operational Research;41.0;2.4
+Control Engineering Practice;99.0;2.616
+Pattern Recognition;168.0;3.962
+Swarm and Evolutionary Computation;35.0;3.818
+Robotics and Computer-Integrated Manufacturing;72.0;3.464
+IEEE Transactions on Cloud Computing;25.0;7.928
+Journal of Biomedical Informatics;76.0;2.882
+Computers in Industry;84.0;2.85
+International Journal for Numerical Methods in Biomedical Engineering;48.0;2.338
+International Journal of Social Robotics;33.0;2.009
+Journal of Heuristics;57.0;1.129
+Topics in Cognitive Science;42.0;2.284
+VLDB Journal;73.0;2.689
+International Journal of Advanced Manufacturing Technology;90.0;2.601
+IEEE Journal of Biomedical and Health Informatics;94.0;3.85
+Computational Geosciences;51.0;2.726
+IEEE Transactions on Parallel and Distributed Systems;110.0;3.971
+BioData Mining;20.0;1.857
+Wiley Interdisciplinary Reviews-Data Mining and Knowledge Discovery;24.0;1.939
+Electronic Journal of Combinatorics;37.0;0.762
+Journal of Building Performance Simulation;26.0;2.603
+IEEE Transactions on Multimedia;101.0;3.977
+Journal of Biomedical Semantics;26.0;1.6
+Multibody System Dynamics;54.0;2.718
+EPJ Data Science;17.0;2.982
+Journal of Computer-Aided Molecular Design;87.0;2.356
+Design Studies;75.0;2.133
+Journal of Electronic Commerce Research;20.0;1.667
+Networks;52.0;1.121
+Signal Processing;105.0;3.47
+Journal of Pragmatics;69.0;1.039
+International Journal of Adaptive Control and Signal Processing;56.0;2.082
+Semantic Web;30.0;2.224
+Cognitive Computation;28.0;3.479
+Evolutionary Bioinformatics;25.0;1.877
+Technology Pedagogy and Education;24.0;1.58
+Artificial Intelligence;129.0;3.034
+Fuzzy Optimization and Decision Making;44.0;2.022
+SIAM Journal on Computing;90.0;0.902
+Engineering Applications of Artificial Intelligence;82.0;2.819
+ACM Transactions on Intelligent Systems and Technology;40.0;2.973
+IEEE Transactions on Services Computing;48.0;4.418
+IEEE Transactions on Visualization and Computer Graphics;110.0;3.078
+Journal of Manufacturing Technology Management;56.0;2.194
+International Journal of Approximate Reasoning;81.0;1.766
+Data Mining and Knowledge Discovery;83.0;2.481
+Photogrammetric Record;40.0;1.917
+Mathematics of Control Signals and Systems;33.0;0.875
+Numerical Heat Transfer Part B-Fundamentals;48.0;1.758
+Multisensory research;46.0;2.339
+Electronic Markets;21.0;3.818
+Artificial Intelligence Review;58.0;3.814
+Calphad-Computer Coupling of Phase Diagrams and Thermochemistry;53.0;1.935
+Journal of Enterprise Information Management;48.0;2.482
+Annual Reviews in Control;64.0;2.32
+Journal of Computational Biology;88.0;1.191
+Information Systems Frontiers;51.0;3.232
+Modelling and Simulation in Materials Science and Engineering;64.0;1.793
+IEEE Transactions on Mobile Computing;116.0;4.098
+Electronic Commerce Research and Applications;60.0;2.582
+IEEE Intelligent Transportation Systems Magazine;24.0;3.019
+Computers and Electronics in Agriculture;85.0;2.427
+Queueing Systems;46.0;1.171
+Information Systems;72.0;2.551
+Journal of Forecasting;48.0;0.934
+Mechatronics;74.0;2.423
+Telecommunications Policy;57.0;2.087
+Computer Methods and Programs in Biomedicine;75.0;2.674
+Journal of Network and Computer Applications;68.0;3.991
+IEEE Transactions on Learning Technologies;36.0;1.869
+Networks and Heterogeneous Media;25.0;1.187
+Ecological Informatics;38.0;1.82
+International Journal of Computer Integrated Manufacturing;44.0;1.995
+Artificial Intelligence in Medicine;72.0;2.879
+International Journal of Systems Science;59.0;2.185
+Engineering Applications of Computational Fluid Mechanics;18.0;1.918
+IEEE Transactions on Vehicular Technology;136.0;4.432
+ACM Transactions on Database Systems;74.0;1.0
+Information Society;68.0;1.889
+IEEE Signal Processing Letters;112.0;2.813
+ACM Transactions on Information and System Security;73.0;2.591
+International Journal of Applied Mathematics and Computer Science;38.0;1.694
+International Journal of Digital Earth;30.0;2.746
+Computational Methods and Function Theory;8.0;0.571
+Aslib Journal of Information Management;34.0;1.461
+Journal of Mathematical Imaging and Vision;61.0;1.927
+Biomedical Signal Processing and Control;41.0;2.783
+International Journal of Bio-Inspired Computation;29.0;2.266
+Enterprise Information Systems;40.0;1.683
+Bulletin of Mathematical Biology;74.0;1.484
+Computer Vision and Image Understanding;116.0;2.391
+Computerized Medical Imaging and Graphics;60.0;2.435
+Robotics and Autonomous Systems;94.0;2.638
+International Journal of Simulation Modelling;18.0;1.942
+Communications of the ACM;183.0;3.063
+Swarm Intelligence;28.0;1.52
+Quantum Information Processing;38.0;2.283
+IEEE Transactions on Cognitive and Developmental Systems;26.0;1.952
+International Journal of Computerized Dentistry;24.0;1.725
+International Journal of Machine Learning and Cybernetics;26.0;2.692
+Journal of Grid Computing;43.0;2.8
+Journal of Computing in Civil Engineering;59.0;1.798
+Machine Learning;129.0;1.855
+Memetic Computing;23.0;1.925
+ACM Transactions on Computing Education;22.0;1.535
+Journal of Artificial Intelligence Research;99.0;1.257
+Mathematical Methods of Operations Research;38.0;0.843
+Simulation Modelling Practice and Theory;51.0;2.092
+Computer Aided Geometric Design;61.0;1.522
+Journal of Information Science;54.0;1.939
+ACM Transactions on Knowledge Discovery from Data;40.0;1.489
+Chemometrics and Intelligent Laboratory Systems;104.0;2.701
+Knowledge and Information Systems;52.0;2.247
+IEEE Transactions on Computers;106.0;3.052
+Journal of Computer Information Systems;51.0;1.557
+Operations Research Letters;63.0;0.643
+Biological Cybernetics;85.0;1.44
+Integrated Computer-Aided Engineering;34.0;3.667
+International Journal of Mobile Communications;37.0;1.742
+Complex Analysis and Operator Theory;15.0;0.799
+Pattern Recognition Letters;129.0;1.952
+Interactive Learning Environments;31.0;1.604
+Human-centric Computing and Information Sciences;21.0;1.967
+IEEE Transactions on Emerging Topics in Computing;24.0;3.626
+Profesional de la Informacion;20.0;1.318
+Journal of Automated Reasoning;48.0;1.321
+International Journal of Critical Infrastructure Protection;24.0;2.15
+Journal of Educational Computing Research;52.0;1.234
+Information Technology and Libraries;30.0;0.968
+Digital Investigation;39.0;1.771
+IEEE Transactions on Network and Service Management;31.0;3.286
+Journal of Computing and Information Science in Engineering;43.0;1.588
+Online Information Review;46.0;1.675
+Games and Culture;37.0;1.5
+Applied Clinical Informatics;18.0;1.138
+Journal of Medical Systems;57.0;2.098
+International Journal of Control Automation and Systems;42.0;2.173
+International Journal of Computer Assisted Radiology and Surgery;33.0;1.961
+Journal of Documentation;56.0;1.157
+Mathematics and Computers in Simulation;61.0;1.476
+Image and Vision Computing;111.0;2.159
+Games for health journal;16.0;1.876
+IEEE Transactions on Human-Machine Systems;99.0;2.563
+Applied Intelligence;49.0;1.983
+Computer Graphics Forum;94.0;2.046
+Soft Computing;56.0;2.367
+Discrete Mathematics and Theoretical Computer Science;18.0;0.569
+Optical Materials;89.0;2.32
+Computers in Biology and Medicine;68.0;2.115
+Smart Structures and Systems;33.0;2.231
+IEEE Communications Letters;122.0;2.723
+Theory and Decision;30.0;0.522
+Information and Software Technology;81.0;2.627
+Journal of Advanced Transportation;31.0;1.102
+Computer Methods in Biomechanics and Biomedical Engineering;48.0;1.974
+Cognitive Processing;36.0;1.15
+Journal of Combinatorial Optimization;39.0;0.927
+Engineering Optimization;52.0;1.622
+Molecular Informatics;59.0;1.955
+ACM Transactions on Computational Logic;43.0;0.731
+IEEE Transactions on Nanotechnology;69.0;2.857
+Molecular Simulation;46.0;1.449
+Ecological Psychology;42.0;0.667
+Dynamic Games and Applications;14.0;1.073
+Requirements Engineering;45.0;1.75
+IEEE Transactions on Nanobioscience;53.0;2.158
+Operational Research;13.0;1.816
+International Journal of Computational Intelligence Systems;31.0;2.0
+Algorithmica;64.0;0.667
+IEEE Intelligent Systems;105.0;2.596
+International Journal of Information Security;33.0;1.658
+Signal Processing-Image Communication;69.0;2.073
+Designs Codes and Cryptography;48.0;1.114
+IEEE Access;36.0;3.557
+Speech Communication;87.0;1.585
+Perception;79.0;1.371
+IEEE Circuits and Systems Magazine;43.0;3.933
+Journal of Computer and System Sciences;78.0;1.497
+Numerical Functional Analysis and Optimization;38.0;0.827
+Journal of Digital Imaging;44.0;1.536
+Computer Speech and Language;58.0;1.776
+Discrete Optimization;28.0;0.48
+IEEE Transactions on Haptics;35.0;1.869
+Circuits Systems and Signal Processing;41.0;1.998
+ACM Transactions on Programming Languages and Systems;63.0;0.759
+Ad Hoc Networks;73.0;3.151
+Information Systems Management;50.0;1.255
+Theory and Practice of Logic Programming;36.0;0.875
+Human-Computer Interaction;62.0;3.379
+Acta Informatica;33.0;0.886
+Ethics and Information Technology;40.0;1.08
+Neural Processing Letters;43.0;1.787
+International Journal of Human-Computer Interaction;51.0;1.259
+Journal of Computational Science;26.0;1.925
+Journal of Optical Communications and Networking;46.0;2.742
+Information and Computation;64.0;1.077
+Journal of Visual Communication and Image Representation;62.0;1.836
+Engineering;8.0;2.667
+Journal of Computational Finance;8.0;0.758
+Journal of Parallel and Distributed Computing;70.0;1.815
+Computer Networks;113.0;2.522
+Computational Geometry-Theory and Applications;47.0;0.568
+International Journal of Humanoid Robotics;24.0;0.908
+Multidimensional Systems and Signal Processing;30.0;2.088
+Molecular Diversity;50.0;2.229
+ACM Transactions on Software Engineering and Methodology;68.0;1.946
+IEEE Transactions on Computational Intelligence and AI in Games;32.0;0.897
+Applied Ontology;24.0;0.774
+Applied Categorical Structures;23.0;0.329
+Flow Measurement and Instrumentation;46.0;1.407
+Theoretical Computer Science;100.0;0.772
+ACM Transactions on Autonomous and Adaptive Systems;33.0;1.216
+Signal Image and Video Processing;24.0;1.643
+Engineering with Computers;39.0;1.951
+Machine Vision and Applications;53.0;1.306
+Journal of Intelligent Information Systems;47.0;1.107
+GeoInformatica;45.0;2.091
+Journal of Theoretical and Applied Electronic Commerce Research;21.0;0.774
+Software and Systems Modeling;41.0;1.722
+Journal of Systems and Software;89.0;2.278
+International Journal of Fuzzy Systems;26.0;2.396
+Informatica;28.0;1.386
+ACM Transactions on Modeling and Computer Simulation;42.0;0.931
+Performance Evaluation;57.0;1.786
+International Journal of Computational Methods;27.0;0.805
+Computer Communications;85.0;2.613
+Journal of Functional Programming;45.0;0.703
+ACM Transactions on Sensor Networks;54.0;2.313
+International Journal of Computer Mathematics;38.0;1.054
+International Journal on Document Analysis and Recognition;42.0;1.298
+Frontiers in Neurorobotics;19.0;2.606
+Graphical Models;50.0;1.019
+International Journal for Multiscale Computational Engineering;23.0;1.016
+SIGMOD Record;128.0;1.261
+Empirical Software Engineering;54.0;2.933
+IEEE Software;96.0;2.879
+IEEE Transactions on Very Large Scale Integration (VLSI) Systems;92.0;1.744
+Optimization and Engineering;31.0;1.352
+Distributed Computing;40.0;0.84
+Formal Methods in System Design;44.0;0.825
+Engineering Computations;47.0;1.177
+Electronic Library;32.0;0.8
+International Journal of Medical Robotics and Computer Assisted Surgery;42.0;1.472
+Journal of Systems Science and Systems Engineering;20.0;0.766
+Photonics and Nanostructures-Fundamentals and Applications;32.0;1.575
+Computational Economics;33.0;1.038
+Universal Access in the Information Society;34.0;1.176
+Intelligent Service Robotics;22.0;0.933
+IET Biometrics;15.0;1.836
+Autonomous Agents and Multi-Agent Systems;61.0;1.176
+Expert Systems;31.0;1.43
+Journal of Simulation;17.0;1.218
+AI Magazine;62.0;1.032
+ACM Transactions on Internet Technology;47.0;1.727
+Library Hi Tech;31.0;0.759
+ACM Transactions on the Web;38.0;1.163
+Information Systems and e-Business Management;28.0;1.032
+Advances in Mathematics of Communications;15.0;0.564
+Computational Linguistics;82.0;1.319
+Electronic Commerce Research;31.0;1.489
+IEEE Multimedia;61.0;1.898
+i-Perception;20.0;0.942
+Information Technology for Development;27.0;1.387
+Journal of Visual Languages and Computing;40.0;0.971
+Annals of Mathematics and Artificial Intelligence;46.0;0.899
+IEEE Micro;84.0;1.913
+Information Processing Letters;66.0;0.793
+International Journal of Technology Management;48.0;0.869
+Computational Intelligence;44.0;1.352
+Eurasip Journal on Image and Video Processing;28.0;1.737
+ACM Transactions on Multimedia Computing Communications and Applications;39.0;2.019
+Journal of Supercomputing;42.0;1.532
+Inverse Problems in Science and Engineering;26.0;1.125
+Visual Computer;57.0;1.036
+Personal and Ubiquitous Computing;73.0;1.924
+Logical Methods in Computer Science;28.0;0.508
+Journal of Bioinformatics and Computational Biology;38.0;0.991
+Natural Computing;33.0;0.86
+International Journal of Design;28.0;1.163
+Computational Complexity;32.0;0.487
+IET Information Security;23.0;0.89
+Journal of Logic and Computation;48.0;0.74
+International Journal of Imaging Systems and Technology;41.0;1.423
+Statistical Analysis and Data Mining;25.0;0.865
+IET Signal Processing;30.0;1.25
+IEEE Internet Computing;101.0;1.929
+Pattern Analysis and Applications;46.0;1.281
+Formal Aspects of Computing;36.0;0.845
+Artificial Life;49.0;0.897
+Genetic Programming and Evolvable Machines;34.0;1.455
+RAIRO-Theoretical Informatics and Applications;25.0;0.35
+Robotica;56.0;1.177
+Theory of Computing Systems;35.0;0.458
+Pervasive and Mobile Computing;50.0;2.974
+Computer Applications in Engineering Education;22.0;1.153
+International Journal of Circuit Theory and Applications;44.0;1.444
+Spatial Cognition and Computation;26.0;0.88
+Journal of Logic Language and Information;27.0;0.536
+Journal of Molecular Modeling;57.0;1.507
+Advanced Robotics;52.0;0.961
+Knowledge Engineering Review;54.0;1.07
+Journal of Universal Computer Science;47.0;1.066
+Journal on Multimodal User Interfaces;19.0;1.14
+International Journal of Foundations of Computer Science;33.0;0.353
+Problems of Information Transmission;15.0;0.359
+Journal of Ambient Intelligence and Humanized Computing;19.0;1.423
+Parallel Computing;59.0;0.938
+International Journal of High Performance Computing Applications;54.0;2.015
+Journal of Cryptology;64.0;1.056
+IEEE Computer Architecture Letters;27.0;1.521
+Journal of Organizational and End User Computing;27.0;0.744
+IET Image Processing;29.0;1.401
+Wireless Networks;79.0;1.981
+Fundamenta Informaticae;57.0;0.725
+International Journal on Software Tools for Technology Transfer;47.0;1.077
+Cybernetics and Systems;33.0;1.197
+Journal of Internet Technology;15.0;1.301
+Big Data;14.0;1.489
+International Journal of Advanced Robotic Systems;34.0;0.952
+International Journal of Communication Systems;37.0;1.717
+IEEE Pervasive Computing;88.0;3.022
+Computational Intelligence and Neuroscience;37.0;1.649
+Journal of Logical and Algebraic Methods in Programming;7.0;0.634
+Journal of Analytical Methods in Chemistry;16.0;1.262
+Journal of Aerospace Information Systems;26.0;1.095
+Eurasip Journal on Advances in Signal Processing;73.0;1.639
+Journal of Real-Time Image Processing;25.0;1.574
+Kybernetika;31.0;0.632
+Economic Computation and Economic Cybernetics Studies and Research;13.0;0.664
+Studies in Informatics and Control;14.0;1.02
+Computer Journal;52.0;0.792
+New Review of Hypermedia and Multimedia;27.0;1.0
+Frontiers of Computer Science;22.0;1.105
+Iranian Journal of Fuzzy Systems;19.0;1.27
+Automated Software Engineering;39.0;1.806
+Journal of Computer and Systems Sciences International;17.0;0.554
+International Journal of Modern Physics C;54.0;0.919
+China Communications;20.0;1.514
+Software Quality Journal;35.0;1.596
+Multimedia Systems;52.0;1.703
+Journal of Consciousness Studies;57.0;0.725
+ACM Transactions on Storage;33.0;0.927
+ACM Journal on Emerging Technologies in Computing Systems;30.0;1.672
+Cognitive Systems Research;41.0;1.425
+ACM Transactions on Computer-Human Interaction;78.0;0.972
+Eurasip Journal on Wireless Communications and Networking;49.0;2.407
+Science of Computer Programming;58.0;0.74
+Mathematical Structures in Computer Science;35.0;1.094
+Connection Science;37.0;0.933
+RAIRO-Operations Research;22.0;0.478
+International Arab Journal of Information Technology;19.0;0.466
+Journal of Computer Science and Technology;36.0;0.878
+Virtual Reality;35.0;1.375
+Nano Communication Networks;25.0;2.07
+Displays;49.0;1.175
+Optical Switching and Networking;23.0;1.113
+Interacting with Computers;70.0;0.809
+Computer Aided Surgery;55.0;1.2
+Malaysian Journal of Computer Science;15.0;0.65
+Kybernetes;30.0;0.98
+Control Engineering and Applied Informatics;11.0;0.698
+IET Computer Vision;25.0;1.087
+Constraints;39.0;0.66
+Multimedia Tools and Applications;45.0;1.541
+ACM Transactions on Design Automation of Electronic Systems;46.0;0.87
+Systems Engineering;39.0;0.797
+Peer-to-Peer Networking and Applications;15.0;1.514
+Security and Communication Networks;23.0;0.904
+ACM Transactions on Reconfigurable Technology and Systems;22.0;1.014
+Intelligent Data Analysis;41.0;0.691
+ACM Transactions on Applied Perception;38.0;0.962
+IT Professional;37.0;1.618
+Distributed and Parallel Databases;39.0;0.925
+Technology and Health Care;39.0;0.717
+Information Visualization;40.0;0.923
+IBM Journal of Research and Development;89.0;0.962
+Journal of Global Information Technology Management;27.0;1.0
+Applied Artificial Intelligence;50.0;0.587
+Journal of Communications and Networks;37.0;1.252
+International Journal of Data Warehousing and Mining;19.0;0.781
+Journal of Network and Systems Management;28.0;1.75
+Natural Language Engineering;48.0;0.8
+Photonic Network Communications;30.0;1.203
+Kinetics and Catalysis;27.0;0.926
+IET Communications;51.0;1.443
+Minds and Machines;31.0;0.842
+Wireless Personal Communications;42.0;1.2
+Data Base for Advances in Information Systems;50.0;0.4
+Digital Scholarship in the Humanities;6.0;0.563
+Biologically Inspired Cognitive Architectures;12.0;0.787
+Real-Time Systems;50.0;1.595
+International Journal of Wavelets Multiresolution and Information Processing;20.0;0.54
+International Journal of Cooperative Information Systems;41.0;0.2
+International Journal of Distributed Sensor Networks;31.0;1.787
+Journal of Systems Architecture;40.0;0.913
+Journal of Cellular Automata;11.0;0.511
+Journal of Systems Engineering and Electronics;25.0;0.572
+IEEE Latin America Transactions;16.0;0.502
+Computer Systems Science and Engineering;23.0;0.855
+Progress in Computational Fluid Dynamics;23.0;0.472
+International Journal of Sensor Networks;26.0;0.878
+Interaction Studies;31.0;0.867
+International Journal of Parallel Programming;29.0;0.897
+International Journal of Network Management;23.0;1.34
+New Generation Computing;25.0;0.722
+International Journal of Aviation Psychology;37.0;0.824
+AI Communications;34.0;0.461
+Information Technology and Control;14.0;0.8
+Microprocessors and Microsystems;31.0;1.049
+Journal of Electronic Imaging;57.0;0.78
+Journal of Imaging Science and Technology;39.0;0.535
+Modeling Identification and Control;20.0;0.667
+IEICE Transactions on Communications;49.0;1.09
+Journal of Software-Evolution and Process;16.0;1.167
+Journal of Multiple-Valued Logic and Soft Computing;20.0;0.437
+Journal of Global Information Management;36.0;0.613
+International Journal of Unconventional Computing;15.0;1.022
+ETRI Journal;40.0;0.739
+International Journal of Web and Grid Services;23.0;1.071
+LMS Journal of Computation and Mathematics;8.0;0.395
+Computer Science and Information Systems;19.0;0.613
+Presence-Teleoperators and Virtual Environments;76.0;0.426
+IEEE Annals of the History of Computing;20.0;0.619
+Programming and Computer Software;13.0;0.267
+Mobile Information Systems;23.0;0.958
+Mathematical and Computer Modelling of Dynamical Systems;28.0;0.586
+Journal of Ambient Intelligence and Smart Environments;22.0;0.878
+IEEE Computer Graphics and Applications;81.0;1.64
+International Journal of Data Mining and Bioinformatics;17.0;0.652
+Computer Animation and Virtual Worlds;41.0;0.697
+Computer Music Journal;35.0;0.568
+Scientific Programming;28.0;1.344
+Defence Science Journal;22.0;0.51
+Analog Integrated Circuits and Signal Processing;42.0;0.8
+International Journal of Ad Hoc and Ubiquitous Computing;19.0;0.648
+IET Computers and Digital Techniques;39.0;0.639
+IEEE Consumer Electronics Magazine;12.0;1.434
+Turkish Journal of Electrical Engineering and Computer Sciences;23.0;0.58
+IET Software;37.0;0.947
+Advances in Electrical and Computer Engineering;19.0;0.699
+Computing and Informatics;23.0;0.41
+IEICE Transactions on Information and Systems;45.0;0.5
+International Journal on Artificial Intelligence Tools;22.0;0.565
+Transinformacao;4.0;0.255
+IETE Journal of Research;18.0;0.829
+Computational and Mathematical Organization Theory;23.0;0.641
+KSII Transactions on Internet and Information Systems;17.0;0.611
+Intelligent Automation and Soft Computing;22.0;0.652
+Journal of Circuits Systems and Computers;23.0;0.595
+Design Automation for Embedded Systems;26.0;0.516
+Acta Scientiarum-Technology;12.0;0.231
+Automatika;16.0;0.217
+Neural Network World;22.0;0.5
+Journal of Information Science and Engineering;32.0;0.327
+Journal of Web Engineering;10.0;0.311
+Imaging Science Journal;19.0;0.366
+Journal of Database Management;29.0;0.231
+International Journal of Web Services Research;24.0;0.405
+Romanian Journal of Information Science and Technology;12.0;0.288
+Journal of Artificial Intelligence;10.0;1.257
+Electronics and Communications in Japan;10.0;0.261
+Cryptologia;14.0;0.326
+ICGA Journal;13.0;0.313
+Journal of the Institute of Telecommunications Professionals;12.0;0.229
+Iranian Journal of Science and Technology-Transactions of Electrical Engineering;3.0;0.519
+ACM Transactions on Asian and Low-Resource Language Information Processing;2.0;0.339
+ACM Transactions on Privacy and Security;1.0;0.444
